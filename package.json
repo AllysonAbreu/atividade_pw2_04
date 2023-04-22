@@ -1,0 +1,24 @@
+{
+  "name": "atividade_04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AllysonAbreu/atividade_pw2_04.git"
+  },
+  "author": "Allyson Abreu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AllysonAbreu/atividade_pw2_04/issues"
+  },
+  "homepage": "https://github.com/AllysonAbreu/atividade_pw2_04#readme",
+  "devDependencies": {
+    "typerscript": "3.8"
+  },
+  "dependencies": {
+  }
+}
